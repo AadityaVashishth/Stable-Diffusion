@@ -49,12 +49,6 @@ The generation latency while depending on many factors like the number of steps 
     • Description: Displays the generated image for preview.
     • Purpose: This allows the user to view the final image after all transformations, steps, and denoising processes have been applied.
 
-# Assignment Submitted by:
-
-Name: Aaditya Vashishth
-
-Personal e-mail: 02adityavashishth@gmail.com
-
 College e-mail: 500094803@stu.upes.ac.in
 
 Sap ID: 500094803
